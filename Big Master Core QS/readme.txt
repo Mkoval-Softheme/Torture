@@ -1,0 +1,1 @@
+Copy scripts to disk C than import tasks using Task Scheduler
